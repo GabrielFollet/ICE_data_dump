@@ -1,0 +1,1 @@
+Temporary Data Repository of relevant data to "play" the Nenana Ice Classic. Data is also in the corresponding google drive, but for the github pages jupyter notebook is better to have everything online and simply call by url the data fmro here
